@@ -1,0 +1,7 @@
+{
+  "concat_embeddings": true,
+  "token_embeddings_dim": 300,
+  "char_embeddings_dim": 25,
+  "use_char_embeddins": true,
+  "use_crf": true
+}
